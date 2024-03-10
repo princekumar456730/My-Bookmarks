@@ -1,4 +1,4 @@
 # My-Bookmarks
 This is my first GitHub repository.
 <br>
-Author - Prince Kumar
+Author - Prince Kumar (me)
